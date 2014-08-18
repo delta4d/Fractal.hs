@@ -40,6 +40,10 @@ todo
 * Study more about fractal, what is it.
 
 
+about
+-----
+
+This small program is written for haskell learning purpose. Feel free to contribute, any advice, issue or pr is welcom.
 
 
 [fractal]: http://en.wikipedia.org/wiki/Fractal
