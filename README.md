@@ -32,11 +32,8 @@ todo
 ----
 
 * Support more cmdline args.
-
 * Make it colorful.
-
 * There are much more generating methods according to [wikipedia][fractal], add more besides `Escape.hs`.
-
 * Study more about fractal, what is it.
 
 
